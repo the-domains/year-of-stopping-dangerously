@@ -1,0 +1,28 @@
+name: Year of stopping dangerously
+favicon: null
+layout_spectrum: 0.967932678759098
+typography_spectrum: 0.037718655774369836
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.24363617040216923
+  lightness: 0.7121541011147201
+  saturation: 0.055941439932212234
+  rhythmicContrast: 0.366814601700753
+purpose: []
